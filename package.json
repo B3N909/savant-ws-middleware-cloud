@@ -1,0 +1,27 @@
+{
+  "name": "@savant/ws-middleware-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B3N909/savant-ws-middleware-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B3N909/savant-ws-middleware-cloud/issues"
+  },
+  "homepage": "https://github.com/B3N909/savant-ws-middleware-cloud#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^7.0.0",
+    "@savant/chrome-core": "^1.0.0",
+    "@savant/ws-middleware": "^1.0.6",
+    "ora": "^6.1.2",
+    "ora-classic": "^5.4.2"
+  }
+}
