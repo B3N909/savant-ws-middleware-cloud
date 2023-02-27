@@ -1,6 +1,6 @@
 {
   "name": "@savant/ws-middleware-cloud",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/B3N909/savant-ws-middleware-cloud.git"
+    "url": "git+https://github.com/B3N909/ws-middleware-cli.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/B3N909/savant-ws-middleware-cloud/issues"
+    "url": "https://github.com/B3N909/ws-middleware-cli/issues"
   },
-  "homepage": "https://github.com/B3N909/savant-ws-middleware-cloud#readme",
+  "preferGlobal": true,
+  "bin": {
+    "ws-middleware-cli": "cli.js"
+  },
+  "homepage": "https://github.com/B3N909/ws-middleware-cli#readme",
   "dependencies": {
     "@google-cloud/datastore": "^7.0.0",
     "@savant/chrome-core": "^1.0.0",
-    "@savant/ws-middleware": "^1.0.6",
+    "@savant/fs-cache": "^1.0.5",
+    "@savant/ws-middleware": "^1.0.17",
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "dockerode": "^3.3.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.0",
     "ora": "^6.1.2",
     "ora-classic": "^5.4.2"
   }

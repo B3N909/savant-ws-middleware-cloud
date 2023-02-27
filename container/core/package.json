@@ -1,0 +1,17 @@
+{
+  "name": "@savant/chrome-core-docker",
+  "version": "1.0.11",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@savant/chrome-core": "git+https://x-access-token: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@github.com/savannt/chrome-core.git#main",
+    "@savant/ws-middleware": "^1.0.33"
+  }
+}

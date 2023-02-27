@@ -1,0 +1,11 @@
+{
+    "core-source": {
+        "C:\\Users\\frran\\OneDrive\\Desktop\\savant\\ws-middleware-cli\\example": "2fe5973d8ae3c13a4b993b9165c21132"
+    },
+    "core-container": {
+        "C:\\Users\\frran\\OneDrive\\Desktop\\savant\\ws-middleware-cli\\container\\core": "3a7d5b59458024f672962aaf122d869c"
+    },
+    "router": {
+        "./router": "e6113f492a5b74cd64c3986eeffa99fc"
+    }
+}

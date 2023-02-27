@@ -1,0 +1,12 @@
+{
+    "core-source": {
+        "C:\\Users\\frran\\OneDrive\\Desktop\\savant\\chrome-core\\docker": "53b1602750a69f519cc8d8af97c98d07"
+    },
+    "core-container": {
+        "C:\\Users\\frran\\OneDrive\\Desktop\\savant\\ws-middleware-cli\\container\\core": "ee5572fcc19b70b76a7df8527b84e4fd",
+        "C:\\Users\\frran\\OneDrive\\Desktop\\savant\\ws-middleware-cli\\container": "14f47573078715d254cde23065d15c24"
+    },
+    "router": {
+        "C:\\Users\\frran\\OneDrive\\Desktop\\savant\\ws-middleware-cli\\router": "278cefd26fae3fc8e6d637b3e844e9c3"
+    }
+}
