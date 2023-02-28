@@ -1,6 +1,6 @@
 {
-  "name": "@savant/ws-middleware-cloud",
-  "version": "2.0.0",
+  "name": "@savant/ws-middleware-cli",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/B3N909/ws-middleware-cli.git"
+    "url": "git+https://github.com/savannt/ws-middleware-cli.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/B3N909/ws-middleware-cli/issues"
+    "url": "https://github.com/savannt/ws-middleware-cli/issues"
   },
   "preferGlobal": true,
   "bin": {
     "ws-middleware-cli": "cli.js"
   },
-  "homepage": "https://github.com/B3N909/ws-middleware-cli#readme",
+  "homepage": "https://github.com/savannt/ws-middleware-cli#readme",
   "dependencies": {
     "@google-cloud/datastore": "^7.0.0",
     "@savant/chrome-core": "^1.0.0",
